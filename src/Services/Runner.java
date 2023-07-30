@@ -99,9 +99,7 @@ public class Runner {
             this.start();
             this.logger.announceSection("|                INTERLUDE                 |");
             running = this.logger.askForChoice("Do you want to play again (Y/n) ? ");
-            if (!running) {
-                System.out.println("--------------------------------------------");
-            }
+            System.out.println("--------------------------------------------");
         }
     }
 }

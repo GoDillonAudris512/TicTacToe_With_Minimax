@@ -3,7 +3,6 @@
 
 ## Table of Contents
 - [Author](#author)
-- [Program Implementation](#program-implementation)
 - [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
 - [How to Run](#how-to-run)
@@ -13,14 +12,11 @@
 | -------- | ------------------------- |
 | 13521062 | Go Dillon Audris          |
 
-## Program Implementation
-soon to be
-
 ## Repository Structure
 ```bash
 .
-├─── doc
-│   └─── Answers.pdf
+├─── docs
+│   └─── Answer.pdf
 ├─── bin  
 │   └─── .gitignore
 ├─── src
